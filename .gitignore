@@ -1,0 +1,9 @@
+/*
+.*
+!/src/
+!/.clang-format
+!/.editorconfig
+!/.gitignore
+!/CMakeLists.txt
+!/CMakeSettings.json
+!/license.txt
