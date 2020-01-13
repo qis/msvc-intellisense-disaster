@@ -7,3 +7,5 @@
 !/CMakeLists.txt
 !/CMakeSettings.json
 !/license.txt
+!/wrapper.hpp
+!/wrapper.png
